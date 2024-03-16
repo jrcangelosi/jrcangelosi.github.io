@@ -2,8 +2,7 @@
 <img align="center" width="200" height="200" src="photo.jpg">
 
 Hey there! My name is Jonathan Cangelosi. I am a Ph.D. candidate in the
-[Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
-(formerly Computational and Applied Mathematics (CAAM)) at 
+[Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. My 
 advisor is Dr. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
 and my research primarily focuses on optimal control and surrogate modeling.
