@@ -9,7 +9,7 @@ and my research primarily focuses on optimal control and surrogate modeling.
 My research is sponsored by the 
 [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) as part of AFOSR MURI Grant FA9550-22-1-0004. The project includes faculty, postdocs, and graduate students spanning several universities, including Stanford University, University of Minnesota, University of Notre Dame, and Rice University.
 
-You can find my CV [here](cv.pdf).
+You can find my CV [here](CV.pdf).
 
 ### Contact Information 
 - **Office**: Duncan Hall 2104, Rice University
