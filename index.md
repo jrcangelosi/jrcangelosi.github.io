@@ -27,9 +27,10 @@ You can find my CV [here](CV.pdf).
 - Surrogate modeling
 
 ## Research and Work Experience
-- **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2021-present
+- **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), Summer 2021-present
   - Adaptive surrogate model refinement for trajectory simulation and optimization (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
-- **Technical Analyst** - [Center for Analytics and Research in Transportation Safety](https://carts.lsu.edu/home), Spring 2020
+
+- **Technical Analyst** - [Center for Analytics and Research in Transportation Safety](https://carts.lsu.edu/home) at [Louisiana State University](https://www.lsu.edu), Spring 2020
   - Reverse engineered network screening and pattern recognition analysis tools used by the [Louisiana Department of Transportation and Development (DOTD)](http://www.dotd.la.gov/Pages/default.aspx) and developed a comprehensive guide to analyze safety levels of roads and intersections using DOTD databases.
 
 ## Publications and Preprints
@@ -45,21 +46,21 @@ You can find my CV [here](CV.pdf).
 - J. R. Cangelosi. _Trajectory Optimization of Hypersonic Vehicles via a Radau Pseudospectral Method_. Poster presentation, SIAM-TXLA 2022, 5 Nov. 2022, Houston, TX.
 
 ## Teaching Experience
-- **Teaching Assistant**, Department of Computational and Applied Mathematics, Rice University
+- **Teaching Assistant** - Department of Computational Applied Mathematics and Operations Research, Rice University
   - Differential equations in science and engineering, Fall 2022, Spring 2024.
  
-- **Lead Tutor**, Center for Academic Success, Louisiana State University
+- **Lead Tutor** - Center for Academic Success, Louisiana State University
   - Various math, computer science, and physics courses, Fall 2016-December 2019.
 
 ## Service
-- **Rice Zouk Council**, Rice University
+- **Rice Zouk Council** - Rice University
   - Secretary, Spring 2024.
 
-- **Undergraduate Student Mentor**, Department of Computational and Applied Mathematics, Rice University, Spring 2024.
+- **Undergraduate Student Mentor** - Department of Computational and Applied Mathematics, Rice University, Spring 2024.
 
-- **Graduate Seminar Organizer**, Department of Computational and Applied Mathematics, Rice University, Fall 2023-Spring 2024.
+- **Graduate Seminar Organizer** - Department of Computational and Applied Mathematics, Rice University, Fall 2023-Spring 2024.
 
-- **GSA Representative**, Rice University, Fall 2023.
+- **GSA Representative** - Rice University, Fall 2023.
 
 - **AWM Math Nights Volunteer**, Rice University, Fall 2021.
   - Tutored students in calculus, matrix analysis, and differential equations.
