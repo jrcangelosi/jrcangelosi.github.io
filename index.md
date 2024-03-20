@@ -7,7 +7,7 @@ Hey there! My name is Jonathan Cangelosi. I am a Ph.D. candidate in the
 advisor is Dr. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
 and my research primarily focuses on optimal control and surrogate modeling.
 My research is sponsored by the 
-[Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) as part of AFOSR MURI Grant FA9550-22-1-0004. The project includes faculty, postdocs, and graduate students spanning several universities, including Stanford University, University of Minnesota, University of Notre Dame, and Rice University.
+[Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) as part of AFOSR MURI Grant FA9550-22-1-0004. The project includes faculty, postdocs, and graduate students across several universities, including Stanford University, University of Minnesota, University of Notre Dame, and Rice University.
 
 You can find my CV [here](CV.pdf).
 
@@ -47,6 +47,9 @@ You can find my CV [here](CV.pdf).
 ## Teaching Experience
 - **Teaching Assistant**, Department of Computational and Applied Mathematics, Rice University
   - Differential equations in science and engineering, Fall 2022, Spring 2024.
+ 
+- **Lead Tutor**, Center for Academic Success, Louisiana State University
+  - Various math, computer science, and physics courses, Fall 2016-December 2019.
 
 ## Service
 - **Rice Zouk Council**, Rice University
