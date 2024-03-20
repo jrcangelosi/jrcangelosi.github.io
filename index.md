@@ -5,7 +5,7 @@ Hey there! My name is Jonathan Cangelosi. I am a Ph.D. candidate in the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. My 
 advisor is Dr. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
-and my research primarily focuses on optimal control and surrogate modeling.
+and my research primarily focuses on optimal control and surrogate modeling with aerospace applications.
 My research is sponsored by the 
 [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) as part of AFOSR MURI Grant FA9550-22-1-0004. The project includes faculty, postdocs, and graduate students across several universities, including Stanford University, University of Minnesota, University of Notre Dame, and Rice University.
 
