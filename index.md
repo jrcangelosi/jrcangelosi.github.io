@@ -18,11 +18,11 @@ You can find my CV [here](CV.pdf).
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2025 (expected).
 - **M.A.**, Computational and Applied Mathematics, Rice University, December 2022.
-- **B.S.**, Mathematics with Honors, [Louisiana State University, Baton Rouge](https://www.math.lsu.edu/), December 2019.
-- **B.S.**, Computer Science with Honors, [Louisiana State University, Baton Rouge](https://www.lsu.edu/eng/cse/), December 2019.
+- **B.S.**, Mathematics with Honors, [Louisiana State University](https://www.math.lsu.edu/), December 2019.
+- **B.S.**, Computer Science with Honors, [Louisiana State University](https://www.lsu.edu/eng/cse/), December 2019.
 
 ## Research Interests
-- Optimal control
+- Trajectory optimization
 - Sensitivity analysis
 - Surrogate modeling
 
@@ -46,24 +46,23 @@ You can find my CV [here](CV.pdf).
 - J. R. Cangelosi. _Trajectory Optimization of Hypersonic Vehicles via a Radau Pseudospectral Method_. Poster presentation, SIAM-TXLA 2022, 5 Nov. 2022, Houston, TX.
 
 ## Teaching Experience
-- **Teaching Assistant** - Department of Computational Applied Mathematics and Operations Research, Rice University
+- **Teaching Assistant and Guest Lecturer** - Department of Computational Applied Mathematics and Operations Research, Rice University
   - Differential equations in science and engineering, Fall 2022, Spring 2024.
  
 - **Lead Tutor** - Center for Academic Success, Louisiana State University
   - Various math, computer science, and physics courses, Fall 2016-December 2019.
 
 ## Service
-- **Rice Zouk Council** - Rice University
-  - Secretary, Spring 2024.
+- **Rice Zouk Council** - Rice University, Spring 2024.
 
 - **Undergraduate Student Mentor** - Department of Computational and Applied Mathematics, Rice University, Spring 2024.
 
 - **Graduate Seminar Organizer** - Department of Computational and Applied Mathematics, Rice University, Fall 2023-Spring 2024.
 
-- **GSA Representative** - Rice University, Fall 2023.
+- **Rice GSA Representative** - Rice University, Fall 2023.
 
 - **AWM Math Nights Volunteer** - Rice University, Fall 2021.
-  - Tutored students in calculus, matrix analysis, and differential equations.
+  - Tutored undergraduate students in calculus, matrix analysis, and differential equations.
 
 
 
