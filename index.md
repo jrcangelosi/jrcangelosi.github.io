@@ -18,8 +18,8 @@ You can find my CV [here](CV.pdf).
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2025 (expected).
 - **M.A.**, Computational and Applied Mathematics, Rice University, December 2022.
-- **B.S.**, Mathematics with Honors, [Louisiana State University](https://www.math.lsu.edu/), December 2019.
-- **B.S.**, Computer Science with Honors, [Louisiana State University](https://www.lsu.edu/eng/cse/), December 2019.
+- **B.S.**, Mathematics with Honors, Louisiana State University, December 2019.
+- **B.S.**, Computer Science with Honors, Louisiana State University, December 2019.
 
 ## Research Interests
 - Trajectory optimization
