@@ -31,8 +31,8 @@ You can find my CV [here](CV.pdf).
   - Ph.D. thesis: Adaptive surrogate model refinement for trajectory simulation and optimization (in progress).
   - Master's thesis: Trajectory optimization of hypersonic vehicles using pseudospectral collocation methods (defended December 2022).
 
-- **Technical Analyst** - [Center for Analytics and Research in Transportation Safety](https://carts.lsu.edu/home) at [Louisiana State University](https://www.lsu.edu), Spring 2020
-  - Reverse engineered network screening and pattern recognition analysis tools used by the [Louisiana Department of Transportation and Development (DOTD)](http://www.dotd.la.gov/Pages/default.aspx) and developed a comprehensive guide to analyze safety levels of roads and intersections using DOTD databases.
+- **Technical Analyst** - [Center for Analytics and Research in Transportation Safety (CARTS)](https://carts.lsu.edu/home) at [Louisiana State University](https://www.lsu.edu), Spring 2020
+  - Reverse-engineered network screening and pattern recognition analysis tools used by the [Louisiana Department of Transportation and Development (DOTD)](http://www.dotd.la.gov/Pages/default.aspx) and developed a comprehensive guide to analyze safety levels of roads and intersections using DOTD databases.
 
 ## Publications and Preprints
 - J. R. Cangelosi, M. Heinkenschloss, J. T. Needels, J. J. Alonso. _Simultaneous Design and Trajectory Optimization for Boosted Hypersonic Glide Vehicles_. AIAA Science and Technology Forum and Exposition (2024). [https://doi.org/10.2514/6.2024-0375](https://doi.org/10.2514/6.2024-0375)
