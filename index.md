@@ -62,7 +62,7 @@ You can find my CV [here](CV.pdf).
 
 - **GSA Representative** - Rice University, Fall 2023.
 
-- **AWM Math Nights Volunteer**, Rice University, Fall 2021.
+- **AWM Math Nights Volunteer** - Rice University, Fall 2021.
   - Tutored students in calculus, matrix analysis, and differential equations.
 
 
