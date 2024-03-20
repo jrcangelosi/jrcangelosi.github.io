@@ -28,7 +28,8 @@ You can find my CV [here](CV.pdf).
 
 ## Research and Work Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), Summer 2021-present
-  - Adaptive surrogate model refinement for trajectory simulation and optimization (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
+  - Ph.D. thesis: Adaptive surrogate model refinement for trajectory simulation and optimization (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
+  - Master's thesis: Trajectory optimization of hypersonic vehicles using pseudospectral collocation methods (advisor: Prof. [Matthias Heinkenschloss]
 
 - **Technical Analyst** - [Center for Analytics and Research in Transportation Safety](https://carts.lsu.edu/home) at [Louisiana State University](https://www.lsu.edu), Spring 2020
   - Reverse engineered network screening and pattern recognition analysis tools used by the [Louisiana Department of Transportation and Development (DOTD)](http://www.dotd.la.gov/Pages/default.aspx) and developed a comprehensive guide to analyze safety levels of roads and intersections using DOTD databases.
