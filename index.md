@@ -64,6 +64,3 @@ You can find my CV [here](CV.pdf).
 
 - **AWM Math Nights Volunteer** - Rice University, Fall 2021.
   - Tutored undergraduate students in calculus, matrix analysis, and differential equations.
-
-
-
