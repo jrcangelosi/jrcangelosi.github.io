@@ -54,8 +54,6 @@ You can find my CV [here](CV.pdf).
   - Various math, computer science, and physics courses, Fall 2016-December 2019.
 
 ## Service
-- **Rice Zouk Council** - Rice University, Spring 2024.
-
 - **Undergraduate Student Mentor** - Department of Computational and Applied Mathematics, Rice University, Spring 2024.
 
 - **Graduate Seminar Organizer** - Department of Computational and Applied Mathematics, Rice University, Fall 2023-Spring 2024.
