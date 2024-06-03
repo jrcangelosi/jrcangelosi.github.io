@@ -25,7 +25,7 @@ You can find my CV [here](CV.pdf).
 
 ## Research and Work Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), Summer 2021-present
-  - Ph.D. thesis: Adaptive surrogate model refinement for trajectory simulation and optimization (in progress).
+  - Ph.D. thesis: Adaptive surrogate model refinement framework for simulation and optimization of dynamical systems (in progress).
   - Master's thesis: Trajectory optimization of hypersonic vehicles using pseudospectral collocation methods (defended December 2022).
 
 - **Technical Analyst** - [Center for Analytics and Research in Transportation Safety (CARTS)](https://carts.lsu.edu/home) at [Louisiana State University](https://www.lsu.edu), Spring 2020
