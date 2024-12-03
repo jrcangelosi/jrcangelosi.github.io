@@ -12,12 +12,6 @@ You can find my CV [here](CV.pdf).
 - **Office**: Duncan Hall 2104, Rice University
 - **Email**: jrc20@rice.edu
 
-## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2025 (expected).
-- **M.A.**, Computational and Applied Mathematics, Rice University, May 2023.
-- **B.S.**, Mathematics with Honors, Louisiana State University, December 2019.
-- **B.S.**, Computer Science with Honors, Louisiana State University, December 2019.
-
 ## Research Interests
 - Optimal control + dynamic optimization
 - Surrogate modeling + model order reduction
