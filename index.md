@@ -6,7 +6,7 @@ I am a Ph.D. candidate in the
 on optimal control and surrogate modeling with aerospace applications. My research is sponsored by the 
 [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) as part of AFOSR MURI Grant FA9550-22-1-0004. The project includes faculty, postdocs, and graduate students across several universities, including Stanford University, University of Minnesota, University of Notre Dame, and Rice University.
 
-You can find my CV [here](CV.pdf).
+You can find my CV [here](cv.pdf).
 
 ### Contact Information 
 - **Office**: Duncan Hall 2104, Rice University
