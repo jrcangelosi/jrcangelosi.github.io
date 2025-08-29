@@ -13,8 +13,7 @@ Here is my [CV](cv.pdf).
 - **Email**: jcange@stanford.edu
 
 ## Research Interests
-- Optimal control
 - Scientific machine learning
 - Data-driven surrogate modeling
 - Experimental design + data acquisition
-
+- PDE-constrained optimization
