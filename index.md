@@ -1,18 +1,20 @@
 <img align="center" width="200" height="200" src="photo.png">
 
-I am a Ph.D. candidate in the
-[Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR) at 
-[Rice University](https://www.rice.edu/) in Houston, TX. I work under the supervision of Dr. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
-on optimal control and surrogate modeling with aerospace applications. My research is sponsored by the 
-[Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) as part of AFOSR MURI Grant FA9550-22-1-0004. The project includes faculty, postdocs, and graduate students across several universities, including Stanford University, University of Minnesota, University of Notre Dame, and Rice University.
+I am a postdoctoral scholar in the [Farhat Research Group](https://web.stanford.edu/group/frg/) at Stanford University. I am collaborating with a graduate student on the development of a generative design framework for solution field interpolation using snapshot data. This framework can be used to construct surrogate models that predict scalar fields at unseen parameter vectors, reducing the need for expensive high-fidelity simulations in the design of aircraft.
 
-You can find my CV [here](cv.pdf).
+I received my Ph.D. from the
+[Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR) at 
+[Rice University](https://www.rice.edu/) in Houston, TX.
+
+Here is my [CV](cv.pdf).
 
 ### Contact Information 
-- **Office**: Duncan Hall 2104, Rice University
-- **Email**: jrc20@rice.edu
+- **Office**: Durand Building 211, Stanford University
+- **Email**: jcange@stanford.edu
 
 ## Research Interests
-- Optimal control + dynamic optimization
-- Surrogate modeling + model order reduction
-- Numerical analysis + scientific computing
+- Optimal control
+- Scientific machine learning
+- Data-driven surrogate modeling
+- Experimental design + data acquisition
+
