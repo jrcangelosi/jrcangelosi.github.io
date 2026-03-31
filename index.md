@@ -4,7 +4,7 @@ I am a postdoctoral scholar in the [Farhat Research Group](https://web.stanford.
 
 I received my Ph.D. from the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR) at 
-Rice University in Houston, TX. My dissertation focused on adaptive surrogate model refinement for simulation and optimization of dynamical systems with expensive-to-evaluate component functions.
+Rice University in Houston, TX. My dissertation focused on adaptive, sensitivity-driven surrogate model refinement for simulation and optimization of dynamical systems with expensive-to-evaluate component functions.
 
 I am currently pursuing faculty positions in mathematics.
 
